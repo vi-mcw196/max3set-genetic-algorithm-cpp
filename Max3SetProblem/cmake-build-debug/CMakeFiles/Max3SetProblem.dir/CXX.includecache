@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/CMax3SatProblem.h
+string
+-
+bits/stdc++.h
+-
+
+C:/Users/38066/CLionProjects/Max3SetProblem/Source Files/CMax3SatProblem.cpp
+iostream
+-
+string
+-
+../Header Files/CMax3SatProblem.h
+C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/CMax3SatProblem.h
+

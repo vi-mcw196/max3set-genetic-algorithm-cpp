@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Max3SetProblem.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Max3SetProblem.dir/objects.a @CMakeFiles\Max3SetProblem.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Max3SetProblem.dir/objects.a -Wl,--no-whole-archive -o Max3SetProblem.exe -Wl,--out-implib,libMax3SetProblem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Max3SetProblem.dir\linklibs.rsp

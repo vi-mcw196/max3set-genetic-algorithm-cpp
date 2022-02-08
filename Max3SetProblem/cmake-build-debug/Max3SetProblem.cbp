@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Max3SetProblem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Max3SetProblem">
+				<Option output="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Max3SetProblem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Max3SetProblem"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Max3SetProblem/fast">
+				<Option output="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Max3SetProblem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Max3SetProblem/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/38066/CLionProjects/Max3SetProblem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/CGAIndividual.h">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/CGAOptimizer.h">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/CMax3SatProblem.h">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/MySmartPointer/Counter.h">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Header Files/MySmartPointer/SmartPointer.h">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Source Files/CGAIndividual.cpp">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Source Files/CGAOptimizer.cpp">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/Source Files/CMax3SatProblem.cpp">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/main.cpp">
+			<Option target="Max3SetProblem"/>
+		</Unit>
+		<Unit filename="C:/Users/38066/CLionProjects/Max3SetProblem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
